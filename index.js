@@ -5,7 +5,7 @@ function printBadges (names) {
   }
   return names
 }
-
+//flip a coin!
 function tailsNeverFails () {
   let counter = 0
 
